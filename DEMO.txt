@@ -1,3 +1,27 @@
+change from the mounika branch
+
 C:\Users\46494>git config --global user.name "Akumon07"
 
 C:\Users\46494>git config --global user.email "akula8508@gmail.com"
+
+
+git init
+    -> initializes an empty git repository.
+git add
+    -> used to add files to the staging area.
+git status
+    -> used to find the state of the current working directory and staging area.
+git commit
+    -> the command used to save the projects currently staged changes
+git log
+    -> command shows the detailed history of all commits
+ 
+
+git log --oneline
+    -> command shows the one line history of all commits
+
+
+git checkout 394b23a
+git branch master -f
+git checkout master
+git push origin master
