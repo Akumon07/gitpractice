@@ -1,0 +1,3 @@
+C:\Users\46494>git config --global user.name "Akumon07"
+
+C:\Users\46494>git config --global user.email "akula8508@gmail.com"
